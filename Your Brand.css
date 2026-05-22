@@ -176,17 +176,6 @@ button:hover {
 
 }
 
-.header-flex {
-
-    display: flex;
-
-    align-items: center;
-
-    gap: 2px;
-
-
-}
-
 .section-flex {
 
     display: flex;
@@ -228,6 +217,28 @@ img {
         max-height: 250px;
         object-fit: cover;
     }
+}
+
+.cup-of-coffee {
+
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    object-fit: contain;
+
+    margin-bottom: 7px;
+
+}
+
+.cup-of-coffee1 {
+
+    width: 120px;
+    height: 120px;
+    margin: 0;
+    padding: 0;
+    object-fit: contain;
+
 }
 
 select {
